@@ -1,0 +1,20 @@
+[
+  {
+    "disease": "Common Cold",
+    "symptoms": ["cough", "sneezing", "runny nose"],
+    "medicine": ["Paracetamol"],
+    "first_aid": "Rest and drink fluids",
+    "home_remedy": "Ginger tea",
+    "precaution": "Stay warm",
+    "severity": "Low"
+  },
+  {
+    "disease": "Flu",
+    "symptoms": ["fever", "headache", "fatigue"],
+    "medicine": ["Paracetamol", "Ibuprofen"],
+    "first_aid": "Rest",
+    "home_remedy": "Soup",
+    "precaution": "Avoid contact",
+    "severity": "Medium"
+  }
+]
